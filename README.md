@@ -1,2 +1,2 @@
 # Basic-Website
-Basic Website created for a client needs.
+Basic Website created for client needs.
